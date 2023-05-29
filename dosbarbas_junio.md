@@ -37,11 +37,13 @@ Redefinir el documento de excel pero en angular/laravel
     - Al estar aprobado, tambien se aplican los costos realies
 - Realizar una tabla de cuanto y en que se va agastar en esta semana
     - ¿Cada mes?
+    - poder añadir mas dias a un rango
     - Filtrarlo por diferentes criterios
 - Idem con solicitudes
 - Resumen final, flujos financieros. 
     - Integrar mas tipos de fecha (las mencionadas antes).
     - Agregar distintos tipos de filtros
+- tener la capacidad de presionar o atrasar pagos dependiendo de cuanto se gasta y cuanto hay en caja
 
 
 ### Preguntas
