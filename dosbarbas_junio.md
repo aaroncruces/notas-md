@@ -4,6 +4,7 @@
 - Hugo Gonzalez
     - Desarrollador documento excel
 - Nicolas Cofre
+    - puede que se encuentre en otro proyecto
 - Aaron Cruces 
     - desarrollador web
 - Rodrigo Dominguez
@@ -44,6 +45,8 @@ Redefinir el documento de excel pero en angular/laravel
     - Integrar mas tipos de fecha (las mencionadas antes).
     - Agregar distintos tipos de filtros
 - tener la capacidad de presionar o atrasar pagos dependiendo de cuanto se gasta y cuanto hay en caja
+- Saber a quien corresponde un ciento costo/gasto
+- la hoja de flujo financiero se encuentra 
 
 
 ### Preguntas
@@ -54,6 +57,7 @@ Redefinir el documento de excel pero en angular/laravel
     - no, pero deberia
 - ¿pueden haber proyectos con varios cursos?
     - por supuesto
-
+- ¿Tenemos erd?
+    - vamos a usar figma
 
 
