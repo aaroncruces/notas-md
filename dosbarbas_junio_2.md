@@ -1,6 +1,6 @@
 # Martes 30 05
 ### notas
-- podemos tener, por ejemplo 100M.
+- podemos tener, por ejemplo 100M. Si se gasta menos, poder redirigir el dinero a nuevos programas
 - se considera costo por alumno
 - un programa tiene varios cursos
 - un proyecto se compone de varios programas
